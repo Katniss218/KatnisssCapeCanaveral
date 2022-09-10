@@ -1,13 +1,31 @@
 # KatnisssCapeCanaveral
 
-Some people wanted this, so there you go. :D
+Katniss's Cape Canaveral
 
 *Turning KSP into Orbiter since 2020*
 
-Requires Kerbal Konstructs for the LC39.
+People wanted the download, so there you go :P
+## Dependencies:
+### Hard Dependencies:
+**Hard meaning *the mod as a whole*, or *large or important parts of it* will not work correctly without them.**
 
-Not tested with RP-1 (LC39 should allow 99x99x999m, 99999t rockets, and is free to open - balancing it is not on my priprity list, as I don't play RP-1 and don't even know how it's supposed to be balanced)
+* Kerbal Konstructs
+* Real Solar System
+* RSS-Textures
 
-To download, clone the repo (or download as .zip, doesn't really matter) and copy-paste the gameData directory (or contents, again, doesn't matter)
+### Soft Dependencies:
+**Soft meaning *parts of the mod* will not work correctly without them.**
+* TexturesUnlimited - parts
 
-RSS-TEXTURES should be installed before otherwise it will replace the modified heightmap and result in visual artifacts.
+## Q&A
+
+### Parts of the pads missing
+Some parts of the pads (generally the ground support equipment) are parts and intended to be put on the vessel before launch.
+
+### Centering the vessels:
+Use Editor Extensions Redux and press [B] to center the vessel in the VAB so it's aligned with the pads.
+
+### RSS-Textures:
+Should be installed before otherwise it will replace the modified heightmap and result in visual artifacts.
+
+There is a version made specifically for RP-1 (career mode) at https://github.com/KSP-RO/RSS-CanaveralHD
